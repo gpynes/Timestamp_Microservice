@@ -1,0 +1,25 @@
+{
+  "name": "Timestamp_Microservice",
+  "version": "1.0.0",
+  "author": "gpynes <gpynes@gmail.com>",
+  "license": "MIT",
+  "description": "What am I about?",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.15.3"
+  },
+  "engines": {
+    "node": "8.1.x"
+  },
+  "repository": {
+    "url": "https://glitch.com/edit/#!/welcome-project"
+  },
+  "keywords": [
+    "node",
+    "glitch",
+    "express"
+  ]
+}
